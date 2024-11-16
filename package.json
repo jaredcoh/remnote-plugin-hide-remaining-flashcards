@@ -1,6 +1,6 @@
 {
-  "private": true,
-  "name": "remnote-plugin-template-react",
+  "private": false,
+  "name": "remnote-plugin-remove-remaining-flashcard-number",
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
